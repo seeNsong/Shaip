@@ -158,18 +158,18 @@ code.hljs.xml {
     -webkit-mask-repeat: no-repeat;
     cursor: pointer;
     margin-left: 16px;
-    width: 180px;
+    width: 120px;
     height: 40px;
-    mask-image: url("../images/shaip_t_18030.svg");
-    -webkit-mask-image: url("../images/shaip_t_18030.svg");
+    mask-image: url("../images/logo_100x30.svg");
+    -webkit-mask-image: url("../images/logo_100x30.svg");
 }
 
 @media (max-width: 359.98px) {
     .logo-container .logo-image {
-        width: 28px;
-        height: 28px;
-        mask-image: url("../images/logo-xs.svg");
-        -webkit-mask-image: url("../images/logo-xs.svg");
+        width: 40px;
+        height: 40px;
+        mask-image: url("../images/logo_30x30.svg");
+        -webkit-mask-image: url("../images/logo_30x30.svg");
     }
 }
 
